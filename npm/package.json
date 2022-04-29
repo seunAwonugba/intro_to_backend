@@ -1,0 +1,16 @@
+{
+  "name": "npm",
+  "version": "1.0.0",
+  "description": "",
+  "main": "npm-tutorial.js",
+  "scripts": {
+    "start": "node npm-tutorial.js",
+    "dev" : "nodemon npm-tutorial.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  }
+}

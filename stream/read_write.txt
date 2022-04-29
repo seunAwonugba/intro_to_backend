@@ -1,0 +1,1 @@
+This is just a simple file to demonstrate reading reading from a stream 
